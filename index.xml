@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0x14</title>
+    <link>brandonpelfrey.github.io/</link>
+    <description>Recent content on 0x14</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2021 17:35:54 -0800</lastBuildDate><atom:link href="brandonpelfrey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arm64 Assembler on Apple Silicon</title>
+      <link>brandonpelfrey.github.io/content/2021/arm64-assembler-on-apple-silicon/</link>
+      <pubDate>Fri, 29 Jan 2021 17:35:54 -0800</pubDate>
+      
+      <guid>brandonpelfrey.github.io/content/2021/arm64-assembler-on-apple-silicon/</guid>
+      <description>This is a header Test</description>
+    </item>
+    
+  </channel>
+</rss>
